@@ -1,15 +1,8 @@
-# Node.js simple file upload
-
-### Dependencies
-- express
-- ejs
-- fs
-- multer
-
+# Node.js simple multi-file upload with progress indicator
 
 ### Run
 ```
-> git clone https://github.com/Majidkn/nodejs-simple-file-upload.git
+> git clone https://github.com/abhinavpappu/nodejs-simple-file-upload.git
 > cd nodejs-simple-file-upload
 > npm install
 > npm start
